@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I am pre-final year undergraduate student of Electrical and Electronics Engineering at [Visvesvaraya National Institute of Technology (VNIT), Nagpur, India](http://vnit.ac.in/).
-- 🌱 I’m currently learning controls and motion planning.
+- 🌱 I’m currently learning Controls and Motion Planning.
 
 
 <!--
