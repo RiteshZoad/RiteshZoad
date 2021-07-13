@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I am pre-final year undergraduate student of Electrical and Electronics Engineering at [Visvesvaraya National Institute of Technology (VNIT), Nagpur, India](http://vnit.ac.in/).
+- 🌱 I’m currently learning controls and motion planning.
+
+
 <!--
 **RiteshZoad/RiteshZoad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+
